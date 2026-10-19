@@ -1840,12 +1840,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
-- [Mon Batch Cooking](https://monbatchcooking.fr/assistant-ia) `https://api.monbatchcooking.fr/mcp`
-  [![Mon Batch Cooking MCP connector](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking/badges/score.svg)](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking)
-  🔓 - Search and read French batch cooking recipes, find dishes from pantry items and plan a cooking session.
 - [Loafy](https://loafy.ai/claude) `https://loafy.ai/mcp`
   [![Loafy MCP connector](https://glama.ai/mcp/connectors/ai.loafy/loafy/badges/score.svg)](https://glama.ai/mcp/connectors/ai.loafy/loafy)
   🔓 - Sourdough dough calculators, a bake planner, the open book The Sourdough Framework and a personal bake journal.
+- [Mon Batch Cooking](https://monbatchcooking.fr/assistant-ia) `https://api.monbatchcooking.fr/mcp`
+  [![Mon Batch Cooking MCP connector](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking/badges/score.svg)](https://glama.ai/mcp/connectors/fr.monbatchcooking.api/mon-batch-cooking)
+  🔓 - Search and read French batch cooking recipes, find dishes from pantry items and plan a cooking session.
 - [PrepSheet](https://getprepsheet.com) `https://getprepsheet.com/mcp`
   [![PrepSheet MCP connector](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.getprepsheet/prepsheet)
   🔓 - Cost recipes, set menu prices, work out UK GP, scale recipes to covers and build kitchen prep lists for chefs.
